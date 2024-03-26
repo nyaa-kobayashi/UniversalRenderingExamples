@@ -5,6 +5,36 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 22424703114646642e0101321c264b1512331d27233b6913222a1623ebf40231e7f079cae839342c3016cb3909314f2afc031d12
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 22424703114646642e0101321c264b1512331d27233b69161d1a5215d2d31739efe224e8c435322c3507fb39000d153ef1010c0fc1021e03250bef1c10f61e5c37f52be61bc51a0eca3d19c3c22ec5e2d6ddd1eeefe2f3d0eadab2e0f5f9e0b6e0ffacefb3
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 22424703114646642e0101321c264b1512331d27233b69161d1a5215d2d31739efe224e8d42e3e3f320be13b4b18310cd10b040ee40a2e0e1c01ce1a10fc1b16158b0dcb13dc06
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 22424703114646642e0101321c264b1512331d27233b69161d1a5215d2d3063dece333fbd73b2c2f7624df0f273f0c3ae00b2d0efb04441e1f07e917
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 22424703114646642e0101321c264b1512331d27233b69042226131cf7f43831ece206e6f42e2f2e3601ea2f171d0e32e2060c1ff30f453f1e01f32104eb1c1a1fc028ca09dc5109c51008d7
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646642e0101321c264b1512331d27233b69052320092acde33734f7f43fe6e91e3a313621e0311432042bf70e463ef8021e123e0dfe0204ec191c1fe11dc815860a12c20d05
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646642e0101321c264b1512331d27233b6963091a162ae0ef2c77b1c305e2fe3830247717e1351027
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646643a071c06152e500359241b38253832312f251801e7ee303df0d737faf43f2c731b0efa2e1627333af4180808e20205050240e80018eb09
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 22424703114646643a071c06152e500359241b38253832312f251801e7ee303df0d737faf43f2c73090eee32052c333af4060c08e20205050240e80018eb09
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646643a071c06152e500359241b38253832312f251801e7ee303df0d737faf43f2c730a01fd3901302439f40f0a1fb81e04020517
+      flags: 0
     lightmappingDeviceAndPlatform:
       value: 53
       flags: 0
@@ -18,5 +48,7 @@ EditorUserSettings:
   m_SemanticMergeMode: 2
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
-  m_VCOverlayIcons: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 0
